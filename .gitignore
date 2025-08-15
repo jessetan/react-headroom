@@ -32,3 +32,5 @@ public
 node_modules/
 .intermediate-representation/
 www/.cache/
+package-lock.json
+.DS_Store
